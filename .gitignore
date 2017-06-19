@@ -1,6 +1,6 @@
 .git
-_site
-.sass-cache
-.git/*
-_site/*
+
 .idea
+
+.sass-cache
+_site
