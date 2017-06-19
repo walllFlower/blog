@@ -2,7 +2,7 @@
 layout: post
 title:  "私有ESB"
 date:   2017-06-19 14:57:32
-categories: jekyll update
+categories: 产品文档
 ---
 
 目录已建好，内容不全。

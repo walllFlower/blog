@@ -13,6 +13,7 @@ url: "https://iuap3.githup.io/blog/" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  iuap3
 
+# timezone: Asia/Shanghai
 encoding: UTF-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 liquid:
