@@ -14,7 +14,9 @@ twitter_username: jekyllrb
 github_username:  iuap3
 
 encoding: UTF-8
-
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+liquid:
+  error_mode: warn
 # Build settings
 markdown: kramdown
 
