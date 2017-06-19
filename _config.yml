@@ -1,7 +1,7 @@
 # Site settings
 name: "博客名"
 title: 项目工作说明
-motto: Your motto
+motto: 关注产品、关注内容
 email: 18686882@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "https://iuap3.githup.io/blog/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  chellking
+github_username:  iuap3
 
 encoding: UTF-8
 
