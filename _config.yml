@@ -1,17 +1,17 @@
 # Site settings
 name: "博客名"
-title: Your awesome title
+title: 项目工作说明
 motto: Your motto
-email: your-email@domain.com
+email: 18686882@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://iuap3.githup.io/blog/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  chellking
 
 encoding: UTF-8
 
