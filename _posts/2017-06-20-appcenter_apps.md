@@ -2,7 +2,7 @@
 layout: post
 title:  "应用中心(在线)"
 date:   2017-06-19 14:48:32
-categories: 产品文档
+categories: 产品文档 企业应用中心
 ---
 
 # 应用中心
