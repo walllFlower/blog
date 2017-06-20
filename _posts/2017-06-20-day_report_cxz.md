@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "企业门户"
+title:  "工作记录(日)"
 date:   2017-06-19 14:57:32
-categories: 工作记录(日)
+categories: 日报
 ---
 
 目录已建好，内容不全。
