@@ -2,7 +2,7 @@
 layout: post
 title:  "工作记录(周报)"
 date:   2017-06-22 14:57:32
-categories: 日报 第25周
+categories: 日报
 ---
 
 周工作记录，为了提供全面的工作review过程，提高工作效率与工作计划能力，需要记录工作的节奏与成果；
