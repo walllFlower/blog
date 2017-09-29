@@ -7,4 +7,4 @@ https://github.com/tenyue/ServerStatus
 
 文档
 外网IP：123.103.9.211   
-内网IP：172.16.72.142
+内网IP：172.16.72.142(虚拟IP)
