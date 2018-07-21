@@ -253,4 +253,4 @@ categories: 技术运营工作周报
 
 本页手机二维码地址：
 
-![地址](/blog/images/201707161.png)
+![地址](/blog/images/20180721.png)
