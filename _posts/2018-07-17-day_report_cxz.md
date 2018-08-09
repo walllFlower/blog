@@ -23,11 +23,11 @@ categories: 技术运营工作周报
 
 1. 培训体系建设：(课程、认证、数据收集)
 
-    1.XXXXXXX；
+    1.iuap课程梳理；
 
-    2.XXXXXXX；
+    2.Tinper官网技术组件整理；
 
-    3.XXXXXXX；
+    3.Spring Web收尾，Spring boot搭建环境，与应用平台对接；
 
 2. 现场培训：(人员培训、产品演示)
 
@@ -55,9 +55,9 @@ categories: 技术运营工作周报
 
 5. 产业链发展(校企共建【推进会】、产品验证【发版会】)
 
-    1.XXXXXXX；
+    1.院校评审，指点工作；
 
-    2.XXXXXXX；
+    2.院校阶段性进展，课件评审（前端）；
 
     3.XXXXXXX；
 
