@@ -70,7 +70,7 @@ categories: 技术运营工作周报
     
 6. 其他
 
-    1.XXXXXXX；
+    1.云品秀第十七期番外篇相关数据上线；
 
     2.XXXXXXX；
 
