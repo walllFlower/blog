@@ -34,7 +34,7 @@ categories: 技术运营工作周报
 
 2. 现场培训：(人员培训、产品演示)(志鹏)
 
-    1.XXXXXXX；
+    1.云通信iuap互联网培训；
 
     2.XXXXXXX；
 
