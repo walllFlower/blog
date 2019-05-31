@@ -9,6 +9,6 @@ https://github.com/tenyue/ServerStatus
 外网IP：123.103.9.211   
 内网IP：172.16.72.142(虚拟IP)
 
-测试
-测试1
+测试 \
+测试1 \n
 测试2
