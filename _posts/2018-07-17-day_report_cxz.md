@@ -35,7 +35,7 @@ categories: 技术运营工作周报
 
     1.搜集整理专属云发版产品手册；
 
-    2.XXXXXXX；
+    2.云平台wiki上市发版文档体系整理；
 
     3.XXXXXXX；
 
