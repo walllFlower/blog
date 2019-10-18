@@ -28,7 +28,7 @@ categories: 技术运营工作周报
 
     1.iuap5.0文档体系建设；
 
-    2.XXXXXXX；
+    2.iuap5.0MDD课程案例开发；
 
     3.XXXXXXX；
 
