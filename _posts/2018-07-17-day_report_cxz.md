@@ -56,9 +56,9 @@ categories: 技术运营工作周报
     
     3.iuap5.0文档制作MD文件并上传Github；
     
-    4.AWS 机器学习产品简介和示例教程;
+    4.AWS 机器学习产品简介和示例教程；
     
-    5.Salesforce云开发平台英文资料整理;
+    5.Salesforce云开发平台英文资料整理；
     
     6.埃森哲 AI 行业发展报告翻译
     
