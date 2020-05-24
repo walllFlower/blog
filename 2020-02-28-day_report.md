@@ -36,7 +36,7 @@ categories: 技术运营工作周报
 
     1.北京国资委项目现场赋能；
 
-    2.XXXXXXX；
+    2.一汽现场培训；
 
     3.XXXXXXX；
 
